@@ -6,8 +6,6 @@
   Computer Science student focused on Python, software development and data.
 </p>
 
----
-
 ## Tech Stack
 
 <div data-importer="techs" align="left">
@@ -17,8 +15,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
 </div>
-
----
 
 ## Education
 
