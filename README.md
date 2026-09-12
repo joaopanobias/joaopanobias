@@ -1,7 +1,7 @@
 # <Hello World! I'm João Gabriel />
 
 <h2 align="center">
-  Python Developer
+  Computer Science Student | Python
 </h2>
 
 <p align="center">
