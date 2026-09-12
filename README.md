@@ -1,27 +1,24 @@
-###
+<h1 align="center">&lt;Hello World! I'm João Gabriel /&gt;</h1>
 
-# <Hello World! I'm João Gabriel />
-
-###
-
-<h2 align="center">
-  Computer Science Student | Python
-</h2>
+<h2 align="center">Python Developer</h2>
 
 <p align="center">
-  Computer Science student focused on building a strong foundation in
-  Python, SQL, Git and software development.
+  Computer Science student focused on Python, software development and data.
 </p>
+
+---
 
 ## Tech Stack
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
 </div>
+
+---
 
 ## Education
 
@@ -30,11 +27,10 @@
 ## Currently Learning
 
 - Python
-- Object-Oriented Programming
 - Git & GitHub
-- Data Structures & Algorithms
 - SQL
-- Docker
+- Object-Oriented Programming
+- Data Structures & Algorithms
 
 ## Interests
 
@@ -45,7 +41,10 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joao-panobianco/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="SEU_INSTAGRAM">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
