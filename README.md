@@ -1,6 +1,7 @@
 <h1 align="center">&lt;Hello World! I'm João Gabriel /&gt;</h1>
 
-<h2 align="center">Python Developer</h2>
+
+<h2 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+Developer)](https://git.io/typing-svg)</h2>
 
 <p align="center">
   Computer Science student focused on Python, software development and data.
