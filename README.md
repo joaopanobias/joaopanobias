@@ -1,6 +1,6 @@
 <h1 align="center">&lt;Hello World! I'm João Gabriel /&gt;</h1>
 
-<h2 align="center">Computer Science Student | Python</h2>
+<h2 align="center">Python Developer</h2>
 
 <p align="center">
   Computer Science student focused on Python, software development and data.
