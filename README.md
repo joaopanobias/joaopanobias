@@ -27,6 +27,7 @@
 ## Education
 
 - Bachelor's Degree in Computer Science (2025–2028)
+- Fisk Marília Advanced English Certificate (2018–2024)
 
 ## Currently Learning
 
