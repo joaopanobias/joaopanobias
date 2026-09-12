@@ -1,4 +1,4 @@
-<h1 align="center">&lt;Hello World! I'm João Gabriel /&gt;</h1>
+<h1 align="center">&lt;Hello World! I'm João Gabriel! /&gt;</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Python+Developer" alt="Typing SVG" />
@@ -35,8 +35,6 @@
 - Back-end Development
 - Data Analysis
 - Software Development
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joao-panobianco/">
