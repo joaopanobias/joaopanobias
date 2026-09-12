@@ -22,7 +22,7 @@
 
 ## Education
 
-- 🎓 Bachelor's Degree in Computer Science
+- Bachelor's Degree in Computer Science (2025–2028)
 
 ## Currently Learning
 
@@ -41,10 +41,10 @@
 ---
 
 <p align="center">
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/joao-panobianco/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="SEU_INSTAGRAM">
+  <a href="https://www.instagram.com/joao.panobias/">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
