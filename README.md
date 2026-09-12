@@ -1,7 +1,7 @@
 <h1 align="center">&lt;Hello World! I'm João Gabriel /&gt;</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Python+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
