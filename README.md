@@ -1,4 +1,10 @@
+###
+
+<br clear="both">
+
 <h1 data-importer="text" align="center"><Hello World! I'm João Gabriel /></h1>
+
+###
 
 <h2 align="center">
   Computer Science Student | Python
